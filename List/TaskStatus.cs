@@ -1,0 +1,5 @@
+﻿enum TaskStatus
+{
+    Pending,
+    Completed
+}
